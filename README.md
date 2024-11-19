@@ -23,7 +23,7 @@ Live a stress-free life.
 <img src="./logo.png" width=140px height=110px alt="logo">
 
 ## 📸 Screenshots <a name = "screenshots"></a>
-![readmeBanner](https://user-images.githubusercontent.com/98955085/184510782-3f699206-4768-4b3a-aa6d-40c924e13578.png)
+![readmeBanner](/images/home.png)
 
 
 
