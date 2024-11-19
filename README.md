@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sukoon 
 This is a stress-relieving website project made for the hackathon [Hackofiesta](https://hack.iiitl.ac.in/). 
 This project is under the theme **Healthcare.**
@@ -105,3 +106,6 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
   Made with ❤ from India.
 </p>
 
+=======
+# BE_Project
+>>>>>>> bf438391fcd79825382a17d2c7c88d33fd8861fa
